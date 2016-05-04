@@ -1,1 +1,3 @@
 # MFV
+
+Leggyakoribb érték számítása
